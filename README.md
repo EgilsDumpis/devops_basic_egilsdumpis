@@ -1,2 +1,2 @@
-# devops_basic_egilsdumpis
-DevOps pamati iesācējiem
+# DevOps repozitorijs
+Egila Dumpja DevOps repozitorijs pamati iesācējiem
