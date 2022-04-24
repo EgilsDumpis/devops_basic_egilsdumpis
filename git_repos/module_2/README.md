@@ -25,3 +25,6 @@ Vai Laura ir vaikusi commit vakar? :
 
     Pieņemu ka commit ir ievietots ar kommandu "git commit --date="4 day ago" -m "message""
 
+    Ar šo kommandu commitojot šo failu man izdevās iegūt tādu pašu rezultātu:  
+ 
+[![N| *atbilde*](https://fv2-5.failiem.lv/thumb_show.php?i=8jeaknvyp&view)]
